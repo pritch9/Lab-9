@@ -1,0 +1,16 @@
+quickly
+slowly
+sluggishly
+sheepishly
+aggressively
+blandly
+anxiously
+badly
+boldly
+bravely
+cowardly
+courageously
+eagerly
+foolishly
+generously
+innocently
